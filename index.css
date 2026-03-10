@@ -12,8 +12,8 @@
     .box{
         width: 200px;
         height: 200px;
-        background-color: red;
-        border: 4px dashed black;
+        background-color: rgb(105, 223, 9);
+        border: 4px dashed rgb(163, 161, 12);
         border-radius: 10px;
         box-sizing: border-box;
     }
